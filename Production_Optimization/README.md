@@ -104,9 +104,9 @@ Key findings:
 
 ## 👥 Author
 
-| Name | Student ID |
-|------|------------|
-| Kyriazis Charitopoulos | 7137 |
+| Name |
+|------|
+| Kyriazis Charitopoulos |
 
 ---
 
