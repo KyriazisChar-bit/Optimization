@@ -95,9 +95,11 @@ A free GAMS community/demo license covers models of this size.
 
 ## 👥 Author
 
-| Name | 
-|------|
-| Kyriazis Charitopoulos | 
+| Field | Detail |
+|-------|--------|
+| Name | Charitopoulos Kyriazis |
+| University | Aristotle University of Thessaloniki |
+| Department | Mechanical Engineering |
 
 
 ---
