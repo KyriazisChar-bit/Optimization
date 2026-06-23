@@ -77,7 +77,7 @@ Then enter a project folder and run its script:
 
 ```bash
 cd project-1-network-design
-python Project_1_Charitopoulos_7137_EN.py
+python Network_Optimization_EN_2.py
 ```
 
 A free GAMS community/demo license covers models of this size.
