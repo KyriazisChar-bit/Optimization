@@ -5,7 +5,7 @@ Two industrial optimization problems modelled as Mixed-Integer Linear Programs (
 **Institution:** Aristotle University of Thessaloniki (School of Mechanical Engineering, AUTh)  
 **Course:** Production Planning & Control  
 **Instructor:** Georgios Georgiadis, Assistant Professor  
-**Author:** Kyriazis Charitopoulos 
+**Author:** Kyriazis Charitopoulos  
 **Semester:** Spring 2025–2026
 
 ---
@@ -55,9 +55,9 @@ Identifying bottlenecks, explaining *why* the solver chose what it did, cross-ch
 
 | File | Description |
 |------|-------------|
-| `project-1-network-design/Project_1_Charitopoulos_7137_EN.py` | Facility-location MILP (deterministic + stochastic) |
-| `project-1-network-design/report.pdf` | Mathematical model, methodology, results |
-| `project-2-stn-scheduling/STN_cl_EN.py` | Polystyrene STN scheduling model + plotting |
+| `Network_Optimization_EN_2.py` | Facility-location MILP (deterministic + stochastic) |
+| `Network_Optimization_Report_EN.pdff` | Mathematical model, methodology, results |
+| `STN_cl_EN.py` | Polystyrene STN scheduling model + plotting |
 | `project-2-stn-scheduling/report.pdf` | STN diagram, model, schedule analysis |
 | `*/docs/assignment.pdf` | Original assignment briefs (reference) |
 
@@ -95,9 +95,10 @@ A free GAMS community/demo license covers models of this size.
 
 ## 👥 Author
 
-| Name |
+| Name | 
 |------|
-| Kyriazis Charitopoulos |
+| Kyriazis Charitopoulos | 
+
 
 ---
 
