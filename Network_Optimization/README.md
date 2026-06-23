@@ -5,7 +5,7 @@ A Mixed-Integer Linear Programming (MILP) model that decides **where to open a d
 **Institution:** Aristotle University of Thessaloniki (School of Mechanical Engineering, AUTh)
 **Course:** Production Planning & Control
 **Instructor:** Georgios Georgiadis, Assistant Professor
-**Author:** Kyriazis Charitopoulos · AEM 7137
+**Author:** Kyriazis Charitopoulos
 **Date:** May 2026
 
 ---
